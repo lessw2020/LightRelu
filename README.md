@@ -29,7 +29,7 @@ Note - cut your learning rates in half vs ReLU, it learns very rapidly.
 
 <img src='images/means-stds-lightrelu.jpg' width=70% height=70% />
 
-# Histogram of activations (smoother is better) - General ReLU vs LightRelu:
+# Histogram of activations (smoother is better) - General ReLU vs LightRelu...and in last place, ReLU:
 
 # GeneralReLU:
 
@@ -38,6 +38,11 @@ Note - cut your learning rates in half vs ReLU, it learns very rapidly.
 # LightRelU:
 
 <img src='images/lightrelu-histo.jpg' width=80% height=80% />
+
+# ReLU:
+
+<img src='images/relu-histo.jpg' width=80% height=80% />
+
 
 
 
